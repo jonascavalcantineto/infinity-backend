@@ -1,5 +1,5 @@
 package controllers
 
-func Login() {
-
+func Login(email, pass string) bool {
+	return false
 }
