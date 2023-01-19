@@ -1,5 +1,21 @@
 package users
 
-func Add() {
+func List() {
+
+}
+
+func ListByID() {
+
+}
+
+func Create() {
+
+}
+
+func Delete(id string) {
+
+}
+
+func Update() {
 
 }
